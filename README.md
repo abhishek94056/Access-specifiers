@@ -2,7 +2,7 @@ The Package is folder inside "SRC" folder.
 
 The package is mainly used to hold together logically related classes.
 
-We can create n packages in SRC folder but we can not create nested packages.
+We can create n packages in SRC folder but we can not create nested packages
 
 We can create n classes in any package.
 
